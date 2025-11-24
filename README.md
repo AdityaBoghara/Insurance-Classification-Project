@@ -139,7 +139,7 @@ This approach demonstrates how machine learning can optimize cross-selling strat
 **Aditya Boghara**
 Master of Science in Management Information Systems
 University of Houston, C.T. Bauer College of Business
-📧 [aditya.boghara@uh.edu](mailto:aditya.boghara@uh.edu)
+📧 [arboghara@uh.edu](mailto:arboghara@uh.edu)
 
 ---
 
